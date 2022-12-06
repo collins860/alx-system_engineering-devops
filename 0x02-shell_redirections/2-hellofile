@@ -1,4 +1,5 @@
 #!/bin/bash
-echo cat /etc/passwd
+cat /etc/passwd
+
 
 
